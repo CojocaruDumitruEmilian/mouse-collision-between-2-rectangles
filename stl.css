@@ -1,0 +1,17 @@
+
+  .item1{
+      height:50px;
+      width:50px;
+      position:absolute;
+      background:orange;
+  }
+  
+  .item2{
+      height:120px;
+      width:120px;
+      position:absolute;
+      background:green;
+      top:300px;
+      left:500px;
+      z-index:-2;
+  }
